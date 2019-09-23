@@ -1,0 +1,70 @@
+.nav-head{
+	background: #fff;
+	padding: 20px 0px;
+}
+ul li a{
+	color:#6d6e70;
+}
+
+.banner{
+	background:linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(../img/banner.png) center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 50px 0px 0px;
+}
+
+.hero h2{
+	color: #fff;
+	font-size: 45px;
+	text-align: center;
+	margin-top: 18%;
+}
+
+.hero p{
+	color: #fff;
+	font-size: 25px;
+	text-align: center;
+	
+}
+
+.btn-cstm{
+	margin: 70px auto 140px ;
+	display: block;
+	background-color: #99c50a;
+	border: 0;
+	padding: 10px 20px;
+
+}
+.banner-two{
+	padding: 80px 0px;
+}
+
+.title img{
+	margin: 0px auto;
+	display: block;
+
+}
+.title h1{
+	margin: 30px 0px 50px;
+  text-align: center;
+  font-size: 35px;
+}
+.title p{
+
+	text-align: center;
+	font-size: 18px;
+	
+}
+
+.max{
+	padding: 50px;
+}
+.max-one{
+	background: #e2f8ff;
+	padding: 30px 0px;
+}
+
+.max-two{
+	background: #f5f9eb;
+	padding: 30px 0px;
+}
